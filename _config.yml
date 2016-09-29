@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
  Our mission is to reduce traffic and environmental impact and help active families with busy schedules.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://goswoosh.com" # the base hostname & protocol for your site
-twitter_username: goswoosh
+twitter_username: rideswoosh
 
 # Build settings
 markdown: kramdown
