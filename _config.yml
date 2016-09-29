@@ -1,14 +1,13 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: goSwoosh
+email: founders@goswoosh.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ We are a high-trust, easy-to-schedule ride service for mountain sports families. 
+ Our initial focus is to provide personalized, scheduled and on-demand ride transport for families on the tahoe/truckee ski teams. 
+ Our mission is to reduce traffic and environmental impact and help active families with busy schedules.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://goswoosh.com" # the base hostname & protocol for your site
+twitter_username: goswoosh
 
 # Build settings
 markdown: kramdown
